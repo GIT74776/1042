@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
 	private int width = 0; // 屏幕宽度
 	private int line_width = 0; // line宽度
 	private int offset = 0; // 偏移量
-
+	int i;
 	// 初始化操作
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
